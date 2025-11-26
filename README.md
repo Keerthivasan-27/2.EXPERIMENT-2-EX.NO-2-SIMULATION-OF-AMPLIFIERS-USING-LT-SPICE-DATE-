@@ -22,51 +22,69 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+
+![WhatsApp Image 2025-11-26 at 20 44 20_26605eae](https://github.com/user-attachments/assets/51fac32c-3cc8-4b24-a845-d955545a0116)
 
 
 ---
 
 
----
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+![WhatsApp Image 2025-11-26 at 20 42 57_aa451b2f](https://github.com/user-attachments/assets/2b384ceb-ac1b-4e16-ba39-5dfb4df22100)
+
+![WhatsApp Image 2025-11-26 at 20 44 33_8688ef01](https://github.com/user-attachments/assets/bd334a3e-ab1e-472b-87f5-990cddf72b6a)
 
 ---
-
+---
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+![WhatsApp Image 2025-11-26 at 20 44 47_933b7aab](https://github.com/user-attachments/assets/94614f74-cdd4-41f9-ad6c-f96fcc8d08b9)
+
 ---
 
 
----
+
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+![WhatsApp Image 2025-11-26 at 20 43 18_61304c2b](https://github.com/user-attachments/assets/dba029b0-0ad4-46d8-b70c-1364f6c1f7e8)
+
+![WhatsApp Image 2025-11-26 at 20 45 00_7a3baef0](https://github.com/user-attachments/assets/34dd6ab1-0533-45f1-a5f4-bd033e982f73)
+
+---
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
-PASTE THE CIRCUIT HERE
+![WhatsApp Image 2025-11-26 at 20 45 14_bfe6470b](https://github.com/user-attachments/assets/ae87ff07-e79b-43c7-9742-1eb9d6edd62a)
+
 ---
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+![WhatsApp Image 2025-11-26 at 20 43 32_c9851c19](https://github.com/user-attachments/assets/e651991d-2379-4e4e-84e8-ae8b0bdaa4ff)
+
+![WhatsApp Image 2025-11-26 at 20 45 27_a5923e37](https://github.com/user-attachments/assets/20db47db-a63b-4852-9852-9439cc412a30)
+
+---
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+![WhatsApp Image 2025-11-26 at 20 45 41_b67b6b73](https://github.com/user-attachments/assets/94746bf5-053a-42d7-8c7e-8d0f32010934)
+
 ---
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+![WhatsApp Image 2025-11-26 at 20 44 01_68cbf355](https://github.com/user-attachments/assets/e554214a-b500-451b-ac94-c7373623486f)
+
+![WhatsApp Image 2025-11-26 at 20 46 19_b421dc9a](https://github.com/user-attachments/assets/d2e166ab-e4ef-43ae-9e5f-912e2bf755cd)
+
+---
 ---
 
 ## RESULT
